@@ -429,7 +429,7 @@ Sets the bluetooth public device address. The 48-bits public device address made
 	
 	// Procedure to generate the public device address
 	
-	ble.setRandomAddr(public_addr);
+	ble.setPublicBDAddr(public_addr);
 
 ##### <span id="getlocalbdaddr">`getLocalBdAddr()`</span>
 
